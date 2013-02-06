@@ -4,7 +4,7 @@
   <title><![CDATA[Category: octopress | FreeMonad]]></title>
   <link href="http://FreeMonad.github.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://FreeMonad.github.com/"/>
-  <updated>2013-02-06T02:01:00-06:00</updated>
+  <updated>2013-02-06T02:20:56-06:00</updated>
   <id>http://FreeMonad.github.com/</id>
   <author>
     <name><![CDATA[Charles Boyd]]></name>
@@ -14,13 +14,27 @@
 
   
   <entry>
+    <title type="html"><![CDATA[latex on octopress]]></title>
+    <link href="http://FreeMonad.github.com/blog/2013/02/06/latex-on-octopress/"/>
+    <updated>2013-02-06T02:18:00-06:00</updated>
+    <id>http://FreeMonad.github.com/blog/2013/02/06/latex-on-octopress</id>
+    <content type="html"><![CDATA[<p>Just testing something out:</p>
+
+<script type="math/tex; mode=display">
+e^{i\pi} + 1 = 0.
+</script>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[back to octopress]]></title>
     <link href="http://FreeMonad.github.com/blog/2013/02/06/back-to-octopress/"/>
     <updated>2013-02-06T01:47:00-06:00</updated>
     <id>http://FreeMonad.github.com/blog/2013/02/06/back-to-octopress</id>
     <content type="html"><![CDATA[<p>After looking into nearly every blog framework available, I ended up returning (happily) to Octopress on Github pages.</p>
 
-<p>Ruby is a mysterious black box to me, but since I'm now committed to using Octopress to generate this - it is probably a good time to start poking at whatever the hell is inside the box and see what it does.</p>
+<p>Ruby is a mysterious black box to me, but since I’m now committed to using Octopress to generate this - it is probably a good time to start poking at whatever the hell is inside the box and see what it does.</p>
+
 ]]></content>
   </entry>
   
