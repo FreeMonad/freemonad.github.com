@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[FreeMonad]]></title>
-  <link href="http://FreeMonad.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: octopress | FreeMonad]]></title>
+  <link href="http://FreeMonad.github.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://FreeMonad.github.com/"/>
   <updated>2013-02-06T02:01:00-06:00</updated>
   <id>http://FreeMonad.github.com/</id>
@@ -20,7 +20,7 @@
     <id>http://FreeMonad.github.com/blog/2013/02/06/back-to-octopress</id>
     <content type="html"><![CDATA[<p>After looking into nearly every blog framework available, I ended up returning (happily) to Octopress on Github pages.</p>
 
-<p>Ruby is a mysterious black box to me, but since I&#8217;m now committed to using Octopress to generate this - it is probably a good time to start poking at whatever the hell is inside the box and see what it does.</p>
+<p>Ruby is a mysterious black box to me, but since I'm now committed to using Octopress to generate this - it is probably a good time to start poking at whatever the hell is inside the box and see what it does.</p>
 ]]></content>
   </entry>
   
